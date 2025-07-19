@@ -1,32 +1,46 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+<!-- Header Animation (optional aesthetic touch) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Hi">
+</p>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<h1 align="center">مرحبًا 👋، أنا <span style="color:#e96443;">عبدالرحمن الفهد</span></h1>
+<h3 align="center">💻 مطوّر شغوف ومحب للتعلم المستمر</h3>
 
-```txt
-TypeScript   19 hrs 14 mins  █████████████████████████   99.76 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
+<hr />
 
-<!--END_SECTION:waka-->
+<h3>🛠️ المهارات والتقنيات:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+</p>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<hr />
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<h3>📫  contact me:</h3>
+<p>
+  <a href="mailto:aboali778060@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<hr />
 
+<h3>📊 إحصائيات GitHub:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanalfahad&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="عبدالرحمن's GitHub Stats"/>
+</p>
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
